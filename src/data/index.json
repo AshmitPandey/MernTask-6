@@ -1,0 +1,22 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Front-End",
+      "description": "- HTML\n- CSS\n- JavaScript\n- Bootstrap\n- React.js"
+    },
+    {
+      "id": "2",
+      "title": "Back-End",
+      "description": "- MongoDB\n- MySQL\n-NodeJS\n-ExpressJS"
+    },
+    {
+      "id": "3",
+      "title": "DSA",
+      "description":  ["Java-based problem-solving in Data Structures and Algorithms.",
+        "Dedicated to enhancing algorithmic efficiency."
+      ]
+    }
+  ]
+}
+
