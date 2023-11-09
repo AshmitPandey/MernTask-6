@@ -6,9 +6,9 @@ export default function AboutMe() {
         
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-            I'm a third-year B.Tech CSE student, and I love diving into web development and problem-solving. I'm into Java for cracking problems efficiently and Python for its versatility. Always on the lookout for chances to boost my skills and work on cool projects.
+            I'm a third-year B.Tech CSE student, and I love exploring new things and engage myself in problem-solving situations . I'm into Java for cracking problems efficiently and Python for its versatility. 
 
-Lately, I've been focusing more on the backend side of things in development. When I'm not coding, you'll find me jamming to music or enjoying a good cup of coffee—I'm a bit of a coffee fanatic. Let's chat and see if we can team up on some awesome projects!
+Lately, I have been constantly improving myself ! Simultaneously exploring Data Science which is quite interesting and a leading area in Cyberworld.
             </p>
           </div>
         </div>
