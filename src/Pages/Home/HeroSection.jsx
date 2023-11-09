@@ -11,7 +11,7 @@ export default function HeroSection() {
             </h1>
             <p className="hero--section-description">
               Passionate about building functional and elegant digital experiences.
-              I solve problems and write clean, efficient code for stuff that lives on the internet.
+              I solve problems and live free , efficient code for stuff that lives on the internet.
             </p>
           </div>
           
